@@ -7,5 +7,5 @@ Welcome to the MLOps Wiki! This wiki contains information about MLOps.
 
 ## Topics
 
-- [Key Principles of MLOps]({{ site.baseurl }}{% post_url 2024-06-28-key-principles-of-mlops %})
-- [Implementation and Tools for MLOps]({{ site.baseurl }}{% post_url 2024-06-28-implementation-and-tools-for-mlops %})
+- [Overview and Importance of MLOps]({{ site.baseurl }}{% post_url 2024-06-28-overview-and-importance-of-mlops %})
+- [Best Practices for Implementing MLOps]({{ site.baseurl }}{% post_url 2024-06-28-best-practices-for-implementing-mlops %})
