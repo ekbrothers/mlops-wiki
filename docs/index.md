@@ -1,11 +1,11 @@
 ---
 layout: home
-title: Civil War Era Coffee Consumption
+title: Understanding Crayons: History, Use, and Types
 ---
 
-# Welcome to the Civil War Era Coffee Consumption!
+# Welcome to the Understanding Crayons: History, Use, and Types!
 
-This wiki contains information about coffee in the civil war.
+This wiki contains information about crayons.
 
 ## Topics
 
