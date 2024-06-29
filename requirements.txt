@@ -1,5 +1,5 @@
 PyYAML
-openai
+openai>=1.0.0
 requests
 PyGithub
 gitpython
