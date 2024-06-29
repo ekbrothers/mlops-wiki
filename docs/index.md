@@ -1,9 +1,9 @@
 ---
 layout: home
-title: Understanding MLOps
+title: MLOps Overview
 ---
 
-# Welcome to the Understanding MLOps!
+# Welcome to the MLOps Overview!
 
 This wiki contains information about MLOps.
 
