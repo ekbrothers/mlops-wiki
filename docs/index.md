@@ -1,11 +1,11 @@
 ---
 layout: home
-title: total soccer Wiki
+title: Civil War Era Coffee Consumption
 ---
 
-# Welcome to the total soccer Wiki!
+# Welcome to the Civil War Era Coffee Consumption!
 
-This wiki contains information about total soccer.
+This wiki contains information about coffee in the civil war.
 
 ## Topics
 
