@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: MLOps Wiki
 ---
 
@@ -7,9 +7,9 @@ title: MLOps Wiki
 
 This is the homepage of our MLOps Wiki.
 
-## Topics
+## Recent Posts
 
 {% for post in site.posts %}
 
-- [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
+- [{{ post.title }}]({{ post.url | prepend: site.baseurl }})
   {% endfor %}
