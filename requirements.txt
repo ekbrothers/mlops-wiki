@@ -1,0 +1,5 @@
+PyYAML
+openai
+requests
+PyGithub
+gitpython
