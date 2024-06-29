@@ -1,11 +1,11 @@
 ---
 layout: home
-title: Understanding Crayons: History, Use, and Types
+title: Understanding Bioethics: An Overview
 ---
 
-# Welcome to the Understanding Crayons: History, Use, and Types!
+# Welcome to Understanding Bioethics: An Overview!
 
-This wiki contains information about crayons.
+This wiki contains information about bioethics.
 
 ## Topics
 
