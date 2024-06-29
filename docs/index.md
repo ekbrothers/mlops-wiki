@@ -3,13 +3,12 @@ layout: home
 title: MLOps Wiki
 ---
 
-# Welcome to the MLOps Wiki
+# Welcome to the MLOps Wiki!
 
-This is the homepage of our MLOps Wiki.
+This wiki contains information about MLOps.
 
-## Recent Posts
+## Topics
 
 {% for post in site.posts %}
-
-- [{{ post.title }}]({{ post.url | prepend: site.baseurl }})
-  {% endfor %}
+- [{{ post.title }}]({{ post.url | relative_url }})
+{% endfor %}
