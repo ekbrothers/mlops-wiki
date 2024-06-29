@@ -1,11 +1,11 @@
 ---
 layout: home
-title: MLOps Overview
+title: total soccer Wiki
 ---
 
-# Welcome to the MLOps Overview!
+# Welcome to the total soccer Wiki!
 
-This wiki contains information about MLOps.
+This wiki contains information about total soccer.
 
 ## Topics
 
