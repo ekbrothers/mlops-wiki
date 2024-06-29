@@ -1,11 +1,15 @@
 ---
-layout: home
+layout: default
 title: MLOps Wiki
 ---
 
-Welcome to the MLOps Wiki! This wiki contains information about MLOps.
+# Welcome to the MLOps Wiki
+
+This is the homepage of our MLOps Wiki.
 
 ## Topics
 
-- [Overview of MLOps]({{ site.baseurl }}{% post_url 2024-06-28-overview-of-mlops %})
-- [Key principles and best practices in MLOps]({{ site.baseurl }}{% post_url 2024-06-28-key-principles-and-best-practices-in-mlops %})
+{% for post in site.posts %}
+
+- [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
+  {% endfor %}
