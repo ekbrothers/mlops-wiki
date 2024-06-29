@@ -1,9 +1,9 @@
 ---
 layout: home
-title: Understanding Bioethics: An Overview
+title: bioethics Wiki
 ---
 
-# Welcome to Understanding Bioethics: An Overview!
+# Welcome to bioethics Wiki!
 
 This wiki contains information about bioethics.
 
